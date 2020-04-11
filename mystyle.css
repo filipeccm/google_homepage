@@ -111,3 +111,6 @@ footer {
   list-style: none; 
   padding-right: 1rem;
 }
+#message a {
+  text-decoration: none;
+}
